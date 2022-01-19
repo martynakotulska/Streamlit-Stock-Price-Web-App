@@ -1,6 +1,6 @@
 # Streamlit-Stock-Price-Web-App
 
-Simple app that shows ** stock closing price **, ** volume **, ** cash flow ** and ** earnings **.
+Simple app that shows **stock closing price**, **volume**, **cash flow** and **earnings**.
 
 ### Installation
 Use the pacage manager pip to install streamlit
